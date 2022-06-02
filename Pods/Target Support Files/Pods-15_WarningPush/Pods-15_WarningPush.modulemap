@@ -1,6 +1,0 @@
-framework module Pods_15_WarningPush {
-  umbrella header "Pods-15_WarningPush-umbrella.h"
-
-  export *
-  module * { export * }
-}
